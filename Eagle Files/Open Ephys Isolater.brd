@@ -822,6 +822,19 @@ design rules under a new name.</description>
 <vertex x="60.96" y="-1.27"/>
 <vertex x="55.88" y="3.81"/>
 </polygon>
+<contactref element="C15" pad="1"/>
+<contactref element="C13" pad="2"/>
+<contactref element="C14" pad="2"/>
+<contactref element="U$1" pad="P$16"/>
+<contactref element="U$1" pad="P$10"/>
+<wire x1="65.405" y1="75.1713" x2="91.27" y2="70.81" width="0" layer="19" extent="1-1"/>
+<wire x1="62.865" y1="75.1713" x2="65.405" y2="75.1713" width="0" layer="19" extent="1-1"/>
+<wire x1="60.325" y1="75.1713" x2="62.865" y2="75.1713" width="0" layer="19" extent="1-1"/>
+<wire x1="54.61" y1="74.93" x2="60.325" y2="75.1713" width="0" layer="19" extent="1-1"/>
+<wire x1="54.61" y1="67.31" x2="54.61" y2="74.93" width="0" layer="19" extent="1-1"/>
+<wire x1="54.61" y1="60.96" x2="54.61" y2="67.31" width="0" layer="19" extent="1-1"/>
+<wire x1="54.61" y1="53.34" x2="54.61" y2="60.96" width="0" layer="19" extent="1-1"/>
+<wire x1="60.96" y1="25.4" x2="57.15" y2="45.72" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$21">
 <contactref element="R3" pad="2"/>
@@ -1002,17 +1015,6 @@ design rules under a new name.</description>
 <wire x1="37.2237" y1="62.23" x2="37.2237" y2="68.58" width="0" layer="19" extent="1-1"/>
 <wire x1="20.32" y1="75.565" x2="36.195" y2="75.9587" width="0" layer="19" extent="1-1"/>
 <wire x1="9.06" y1="66.06" x2="20.32" y2="75.565" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="N$2">
-<contactref element="C15" pad="1"/>
-<contactref element="C13" pad="2"/>
-<contactref element="C14" pad="2"/>
-<contactref element="U$1" pad="P$16"/>
-<contactref element="U$1" pad="P$10"/>
-<wire x1="62.865" y1="75.1713" x2="65.405" y2="75.1713" width="0" layer="19" extent="1-1"/>
-<wire x1="60.325" y1="75.1713" x2="62.865" y2="75.1713" width="0" layer="19" extent="1-1"/>
-<wire x1="54.61" y1="74.93" x2="60.325" y2="75.1713" width="0" layer="19" extent="1-1"/>
-<wire x1="54.61" y1="67.31" x2="54.61" y2="74.93" width="0" layer="19" extent="1-1"/>
 </signal>
 </signals>
 </board>
