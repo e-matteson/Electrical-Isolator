@@ -3764,6 +3764,8 @@ diameter 3 mm, horizontal, grid 12.7 mm</description>
 <text x="22.86" y="27.94" size="1.778" layer="91">TO GND1</text>
 <text x="71.12" y="27.94" size="1.778" layer="91">TO GND2</text>
 <text x="109.22" y="5.08" size="1.778" layer="91">WHATS THAT?</text>
+<text x="45.72" y="-7.62" size="1.778" layer="91">NCM6?</text>
+<text x="45.72" y="-50.8" size="1.778" layer="91">NCM6?</text>
 </plain>
 <instances>
 <instance part="X1" gate="G$1" x="121.92" y="53.34"/>
